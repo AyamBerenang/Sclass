@@ -22,3 +22,4 @@ urlpatterns = [
     path('', include('app_landing.urls')),
     path('app_blog/', include('app_blog.urls')),
 ]
+
